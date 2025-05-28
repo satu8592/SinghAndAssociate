@@ -198,7 +198,7 @@ a {
 }
 .pt_banner_30{
   padding-top: 35px !important}
-}
+
 
 .title-left h1{
     font-size: 35px;
@@ -234,7 +234,7 @@ a {
 }
 .title h2{
     font-size:40px;
-    padding-top: 120px;
+    /* padding-top: 20px; */
     padding-bottom: 25px;
     font-weight: 900;
     color: #364167;
@@ -1763,7 +1763,7 @@ position: relative;
 }
 .button-n,
 a {
-    text-decoration: none!important
+    text-decoration: none!important;
     color:#fff !important;
 }
 
@@ -2715,7 +2715,7 @@ ul {
 .pagination-wrap ul li a{
     height: 45px;
     width: 45px;
-    background: #;
+    /* background: #; */
     line-height: 45px;
     display: block;
     border: 1px solid #296dc1;
@@ -3162,7 +3162,7 @@ section.bg-banner-img {
 .row.book_now {
     text-align: left !important;
 }
-.service-about-services.text-left.tabs_box_s{]
+.service-about-services.text-left.tabs_box_s{
 margin-bottom: 15px;}
 
 .col-md-3{
